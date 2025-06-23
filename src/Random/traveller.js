@@ -75,6 +75,7 @@ const findOrder = (photos) => {
   return orderedLandmarks.join()
 }
 
+//Chat GPT generated test cases
 const tests = [
   {
     name: "Minimal Case",
